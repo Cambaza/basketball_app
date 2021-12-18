@@ -1,0 +1,11 @@
+base58
+lxml==4.7.1
+matplotlib==3.5.1
+numpy==1.21.4
+pandas==1.3.5
+seaborn==0.11.2
+streamlit==1.3.0
+
+
+
+
